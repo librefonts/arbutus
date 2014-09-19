@@ -1,0 +1,32 @@
+{
+  "name": "Arbutus",
+  "designer": "Karolina Lach",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 41531,
+  "fonts": [
+    {
+      "name": "Arbutus",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Arbutus-Regular-TTF.ttf",
+      "postScriptName": "Arbutus",
+      "fullName": "Arbutus",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Arbutus\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Arbutus",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Arbutus-Regular.ttf",
+      "postScriptName": "Arbutus",
+      "fullName": "Arbutus",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Arbutus\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-07"
+}
